@@ -17,6 +17,7 @@ public class InputNumber {
         for (int i=1; i<=userNumber; i++){
             System.out.println(i + " * " + userNumber + " = " + i * userNumber);
         }
+        //dfhasfeawofb
     }
 
     public static void main(String[] args) {
